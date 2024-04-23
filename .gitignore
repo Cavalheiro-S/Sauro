@@ -1,0 +1,13 @@
+# Arquivos de compilação e executáveis
+*.o
+*.out
+#*.exe
+
+# Arquivos de projeto do Visual Studio Code
+.vscode
+
+# Arquivos de configuração do Visual Studio Code
+*.code-workspace
+
+# Arquivos de backup temporários
+*~
